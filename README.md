@@ -34,4 +34,4 @@ ACTIVITY DIAGRAM:
 ![ActivityDiagram1 EXP2](https://github.com/user-attachments/assets/fceacac9-c749-49d6-9cc8-095b4cb91343)
 
 # RESULT:
-Thus the Atm and banking System project was executed and the output was verified.
+Thus the  Library Management System project was executed and the output was verified.
