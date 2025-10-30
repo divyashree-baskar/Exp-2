@@ -1,11 +1,10 @@
 # Exp - 2 LIBRARY MANAGEMENT SYSTEM
 
 # AIM:
-To study the problem statement, SRS document and draw all the UML diagrams of ATM
-System.
+To draw the UML diagram for Library Management System
 
 # PROBLEM STATEMENT:
-To study the problem statement, SRS document and draw all the UML diagrams of ATM
+To study the problem statement, SRS document and draw all the UML diagrams of Library Management
 System.
 
 # DIAGRAMS:
